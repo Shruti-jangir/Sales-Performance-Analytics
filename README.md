@@ -54,7 +54,7 @@ Sales-Performance-Analytics/
 │   └── pbix_dashboard/
 │       └── sales_Performance_Analytics_Dashboard.pbix          # Interactive dashboard 
 ├── assets/
-│   └── images/                           # Charts exported from the notebook (PNG)
+│   └── images/                           # Charts (PNG)
 ├── docs/
 │   └── DATA_DICTIONARY.md                # Column definitions and business logic
 ├── requirements.txt
@@ -135,7 +135,7 @@ Follow `reports/powerbi_guide/POWERBI_BUILD_GUIDE.md` for a full step-by-step wa
 ## 🔗 Links
 
 - **GitHub**: [Shruti-jangir](https://github.com/Shruti-jangir)
-- **Email**: (shrutijangir46@gmai.com)
+- **Email**: shrutijangir46@gmai.com
 ---
 
 *Built by Shruti Jangir — B.Tech CSE (Data Science), CMR University, Bengaluru*
