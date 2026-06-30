@@ -1,0 +1,43 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Excel temp/lock files
+~$*.xlsx
+~$*.xls
+
+# Power BI
+*.pbix.bak
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Distribution
+build/
+dist/
+*.egg-info/

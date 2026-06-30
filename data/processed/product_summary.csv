@@ -1,0 +1,23 @@
+product_category,product_name,units_sold,total_revenue,total_profit,avg_margin,order_count
+Accessories,Cable Organizer,578,246068.5,175718.12,70.8,182
+Accessories,Laptop Bag,465,1224390.0,797762.05,64.17,151
+Accessories,Monitor Arm,482,1466496.5,878553.23,58.93,158
+Accessories,Mouse Wireless,450,775919.0,456165.12,57.13,147
+Accessories,Phone Stand,447,275940.5,194090.17,69.54,158
+Electronics,4K Monitor,365,9894543.0,3237681.16,30.84,123
+Electronics,Laptop Pro 15,294,23283728.0,5432374.13,21.05,95
+Electronics,Mechanical Keyboard,322,2019880.5,785192.34,37.39,99
+Electronics,Smart Speaker,301,1577131.5,609214.66,36.83,104
+Electronics,USB-C Hub,337,691628.5,280734.29,38.57,110
+Electronics,Webcam HD,341,1270416.0,537786.93,40.84,106
+Electronics,Wireless Headphones,329,1428863.0,487345.48,31.7,106
+Office Supplies,Executive Chair,880,15509146.0,7482457.34,46.85,159
+Office Supplies,Printer Laser,801,9265498.5,3582798.51,37.08,150
+Office Supplies,Shredder Pro,926,4834837.5,2206839.57,43.99,160
+Office Supplies,Standing Desk,789,17890465.5,6670514.09,36.3,140
+Office Supplies,Whiteboard XL,705,2813396.5,1523209.72,52.59,126
+Software,Analytics Platform,415,23006238.0,19005789.93,82.2,147
+Software,CRM Suite Annual,412,17614367.5,14268941.84,80.59,141
+Software,Cloud Storage 1TB,468,1598022.5,1360109.1,84.56,157
+Software,Project Manager Pro,484,3951965.5,3364782.17,84.65,158
+Software,Security Package,474,10036189.5,7631866.63,75.48,156
