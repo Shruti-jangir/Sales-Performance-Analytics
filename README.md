@@ -26,10 +26,9 @@ This project simulates a realistic B2B sales operation across 5 regions, 4 produ
 | ----------------------- | ------------------------------------------------------------------------ |
 | Data Generation         | Python (pandas, numpy)                                                   |
 | Data Storage & Querying | SQL (sales_orders schema)                                                |
-| Exploratory Analysis    | Python (pandas, matplotlib, seaborn) — Jupyter Notebook                 |
-| Reporting Workbook      | Excel (openpyxl) — 8-sheet workbook with charts, conditional formatting |
-| BI Dashboard            | Power BI (build guide + DAX measures included)                           |
-| Web Dashboard           | HTML + Chart.js (interactive, browser-based)                             |
+| Exploratory Analysis    | Python (pandas, matplotlib, seaborn) — Jupyter Notebook                  |
+| Reporting Workbook      | Excel (openpyxl) — 8-sheet workbook with charts, conditional formatting  |
+| BI Dashboard            | Power BI Interactive Dashboard                                           |
 
 ## 📁 Project Structure
 
