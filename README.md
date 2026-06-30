@@ -44,17 +44,14 @@ Sales-Performance-Analytics/
 │   │   ├── monthly_trend.csv
 │   │   └── rep_leaderboard.csv
 │   ├── sql/
-│   │   └── sales_analysis.sql            # 18 queries: KPIs, trends, rankings, cohorts
-│   └── generate_data.py                  # Synthetic data generator (reproducible, seeded)
+│       └── sales_analysis.sql            # 18 queries: KPIs, trends, rankings, cohorts
 ├── notebooks/
 │   └── sales_analysis.ipynb              # Full EDA: trends, products, regions, reps, segments
 ├── reports/
 │   ├── excel/
 │   │   └── Sales_Performance_Analytics.xlsx   # 8-sheet workbook (Dashboard, Raw Data, etc.)
-│   ├── powerbi_guide/
-│   │   └── POWERBI_BUILD_GUIDE.md        # Step-by-step Power BI build instructions + DAX
-│   └── html_dashboard/
-│       └── sales_dashboard.html          # Standalone interactive dashboard (Chart.js)
+│   └── pbix_dashboard/
+│       └── sales_Performance_Analytics_Dashboard.pbix          # Standalone interactive dashboard (Chart.js)
 ├── assets/
 │   └── images/                           # Charts exported from the notebook (PNG)
 ├── docs/
@@ -85,14 +82,15 @@ cd Sales-Performance-Analytics
 pip install -r requirements.txt
 ```
 
-### 2. Generate the dataset
+### 2. Load the Dataset
 
-```bash
-cd data
-python generate_data.py
+The dataset is already included in this repository.
+
+Use the following file to begin your analysis:
+
+```text
+data/raw/sales_raw.csv
 ```
-
-This creates `raw/sales_raw.csv` and all files under `processed/`.
 
 ### 3. Run the analysis notebook
 
@@ -135,10 +133,8 @@ Follow `reports/powerbi_guide/POWERBI_BUILD_GUIDE.md` for a full step-by-step wa
 
 ## 🔗 Links
 
-- **Portfolio**: [shruti-jangir.netlify.app](https://shruti-jangir.netlify.app)
 - **GitHub**: [Shruti-jangir](https://github.com/Shruti-jangir)
-- ](https://github.com/Shruti-jangir/HR-Workforce-Analytics)
-
+- **Email**: (shrutijangir46@gmai.com)
 ---
 
 *Built by Shruti Jangir — B.Tech CSE (Data Science), CMR University, Bengaluru*
