@@ -24,7 +24,7 @@ This project simulates a realistic B2B sales operation across 5 regions, 4 produ
 
 | Layer                   | Tools                                                                    |
 | ----------------------- | ------------------------------------------------------------------------ |
-| Data Generation         | Python (pandas, numpy)                                                   |
+| Data Loading            | Python (pandas, numpy)                                                   |
 | Data Storage & Querying | SQL (sales_orders schema)                                                |
 | Exploratory Analysis    | Python (pandas, matplotlib, seaborn) — Jupyter Notebook                  |
 | Reporting Workbook      | Excel (openpyxl) — 8-sheet workbook with charts, conditional formatting  |
