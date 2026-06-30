@@ -52,7 +52,7 @@ Sales-Performance-Analytics/
 │   ├── excel/
 │   │   └── Sales_Performance_Analytics.xlsx   # 8-sheet workbook (Dashboard, Raw Data, etc.)
 │   └── pbix_dashboard/
-│       └── sales_Performance_Analytics_Dashboard.pbix          # Standalone interactive dashboard (Chart.js)
+│       └── sales_Performance_Analytics_Dashboard.pbix          # Interactive dashboard 
 ├── assets/
 │   └── images/                           # Charts exported from the notebook (PNG)
 ├── docs/
