@@ -8,8 +8,7 @@
 An end-to-end sales analytics project covering data generation, SQL querying, Python EDA, an Excel reporting workbook, an interactive HTML dashboard, and a Power BI build guide — built to demonstrate a complete analytics workflow from raw data to executive-ready insights.
 
 ## Dashboard Preview
-![Sales Performance Analytics Dashboard](assets/Sales_Performance_analytics_dashboard_Preview.png)
----
+![Sales Performance Analytics Dashboard](assets/Sales_Performance_Analytics_Dashboard_Preview.png)---
 
 ## 🎯 Project Overview
 
